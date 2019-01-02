@@ -1,0 +1,11 @@
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\bin\Debug\CRM_Tests.exe.config
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\bin\Debug\CRM_Tests.exe
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\bin\Debug\CRM_Tests.pdb
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.fmGrid.resources
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.Form1.resources
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.Properties.Resources.resources
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.exe
+C:\Users\kamil\source\repos\CRM_Tests\CRM_Tests\obj\Debug\CRM_Tests.pdb
